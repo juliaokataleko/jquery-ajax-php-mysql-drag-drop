@@ -5,4 +5,4 @@
     using PHP in backend with Mysql/MariaDB
 </p>
 
-<img style="width: 100%; max-width:400px" src="assets/img/system.png"/>
+<img style="width: 100%; max-width:400px" src="https://raw.githubusercontent.com/juliaokataleko/jquery-ajax-php-mysql-drag-drop/master/assets/img/system.PNG"/>
