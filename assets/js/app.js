@@ -3,7 +3,7 @@ $(() => {
     function slideOut() {
         setTimeout(() => {
             $("#response").slideUp("slow", () => { });
-        }, 10000);
+        }, 2000);
     }
 
     $("#response").hide();
