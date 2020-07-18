@@ -21,7 +21,7 @@ ul {
 #container {
     height: 100vh;
     margin: 0;
-    background-color: #ffffff;
+    background-color: #0460d8;
     color: #fff;
 }
 
@@ -30,6 +30,16 @@ ul {
     width: 100%;
     max-width: 450px;
     margin: 0 auto;
+}
+
+.list h2 {
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 200;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+    letter-spacing: 0.9pt;
 }
 
 .list li {

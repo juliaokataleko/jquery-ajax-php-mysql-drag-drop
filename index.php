@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,6 +14,7 @@
     <div id="container">
     <?php require_once('db.php'); ?>
         <div class="list">
+            <h2>Drag and Drop With Database Refresh</h2>
             <div id="response">
             </div>
             <ul id="taskList">
